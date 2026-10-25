@@ -1,6 +1,6 @@
 ## Security Policy
 
-#Purpose
+##Purpose
 This project provides basic educational information about network security
 
 ## Reporting a Security Concern
